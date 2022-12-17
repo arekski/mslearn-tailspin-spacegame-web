@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-name: 'selfwin'
+  name: 'selfwin'
   vmImage: 'DESKTOP-KBFAEB6'
 
 
