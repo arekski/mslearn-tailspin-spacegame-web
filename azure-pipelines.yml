@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool: 'selfwin'
-  agent.name: 'DESKTOP-KBFAEB6'
+  agent.name: DESKTOP-KBFAEB6
 
 variables:
   solution: '**/*.sln'
