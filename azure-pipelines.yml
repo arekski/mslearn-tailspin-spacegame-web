@@ -6,9 +6,8 @@
 trigger:
 - main
 
-pool:
-  vmImage: 'selfwin'
-    agent.name: 'DESKTOP-KBFAEB6'
+pool: 'selfwin'
+  agent.name: 'DESKTOP-KBFAEB6'
 
 variables:
   solution: '**/*.sln'
