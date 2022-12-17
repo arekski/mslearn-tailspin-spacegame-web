@@ -7,8 +7,7 @@ trigger:
 - main
 
 pool:
-  name: 'selfwin'
-  vmImage: 'DESKTOP-KBFAEB6'
+  vmImage: 'windows-latest'
 
 
 variables:
