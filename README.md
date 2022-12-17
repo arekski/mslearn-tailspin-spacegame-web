@@ -1,7 +1,11 @@
 
 # Contributing
 
+<<<<<<< HEAD
 changes on dev 2
+=======
+changes here
+>>>>>>> d9398ffba0b5ab511a3657f482e134f5c1eaada6
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
